@@ -1,0 +1,5 @@
+rootProject.name='ButterInjector'
+include ':app'
+include ':injector-library'
+include ':injector-annotation'
+include ':injector-processor'
